@@ -18,3 +18,11 @@ An offline chatbot built with Streamlit to answer basic questions about renewabl
 1. Make sure `streamlit` is installed:
    ```bash
    pip install streamlit
+2. Run the app:
+   ```bash
+   streamlit run app.py
+3. Make sure renewable_energy_qa_full.json is in the correct path.
+
+👤 Author
+
+  Prasanna Korada
