@@ -23,6 +23,6 @@ An offline chatbot built with Streamlit to answer basic questions about renewabl
    streamlit run app.py
 3. Make sure renewable_energy_qa_full.json is in the correct path.
 
-👤 Author
+## 👤 Author
 
   Prasanna Korada
